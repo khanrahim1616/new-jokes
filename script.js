@@ -22,5 +22,5 @@ const generatjokes = () => {
     });
 }
     
-generatjokes()
+generatjokes()  
 jokeBtn.addEventListener('click',generatjokes)
